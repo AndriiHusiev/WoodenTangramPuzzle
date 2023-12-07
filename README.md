@@ -1,16 +1,21 @@
-# WoodenTangramPuzzle
-The puzzle game - my first Android project. This game was created on the basis of an old Soviet puzzle game. 
-Over time, when there was a desire to study programming for Android, the idea arose to translate this game into an electronic form 
-and thereby to combine business with pleasure. During the development process, at the same time, it was found the original name of this kind of puzzles is tangram.
-This is an ancient Chinese puzzle consisting of seven flat polygons, called tans, which are put together to form shapes. 
-The objective is to replicate a pattern (given only an outline) generally found in a puzzle book using all seven pieces without overlap.
+# Wooden Tangram Puzzle
 
+## О проекте
+Up
+Wooden Tangram Puzzle - это игра, созданная на основе старой советской головоломки. 
+Со временем, когда появилось желание изучить программирование под Android, возникла идея перевести 
+эту игру в электронный вид и тем самым совместить приятное с полезным. 
+В процессе разработки одновременно было обнаружено оригинальное название такого рода головоломок – танграм.
 
-# Screenshots
+Для рисования используются стандартные растровые методы рисования прямо на View.
+Для поворота деталек не используется мультитач, а вместо этого были созданы экранные кнопки. 
+Также в связи с выбранным методом отрисовки у игры низкая частота кадров даже на мощных устройствах.
+
+## Screenshots
 ![alt text](https://github.com/AndriiHusiev/WoodenTangramPuzzle/blob/master/design/Screenshot_MainMenu.png)
 
-![alt text](https://github.com/AndriiHusiev/WoodenTangramPuzzle/blob/master/design/Screenshot_LevelSelection.png)
-
 ![alt text](https://github.com/AndriiHusiev/WoodenTangramPuzzle/blob/master/design/Screenshot_LevelSetSelection.png)
+
+![alt text](https://github.com/AndriiHusiev/WoodenTangramPuzzle/blob/master/design/Screenshot_LevelSelection.png)
 
 ![alt text](https://github.com/AndriiHusiev/WoodenTangramPuzzle/blob/master/design/Screenshot_Level.png)
